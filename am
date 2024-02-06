@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عنوان صفحتك</title>
+</head>
+<body>
+    <header>
+        <h1>مرحبًا بك في موقعك</h1>
+        <nav>
+            <ul>
+                <li><a href="#">الصفحة الرئيسية</a></li>
+                <li><a href="#">من نحن</a></li>
+                <li><a href="#">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>قسم رئيسي</h2>
+            <p>نصوص توضيحية...</p>
+        </section>
+        <section>
+            <h2>قسم آخر</h2>
+            <p>نصوص توضيحية...</p>
+        </section>
+    </main>
+    <footer>
+        <p>حقوق النشر © 2024 موقعك</p>
+    </footer>
+</body>
+</html>
